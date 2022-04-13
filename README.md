@@ -12,7 +12,7 @@ The detected poses are converted to commands sent to a server through ethernet. 
 https://github.com/BrunoJJE/bodyctrl-xlnx-pc
 
 
-# Usage
+## Usage
 
 You can edit the 'use_delegate' option in the python script to test with or without the TVM delegate of the blazepose landmark inference.
 
